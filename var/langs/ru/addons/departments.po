@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.2/addons/departments.po\n"
+"X-Crowdin-File-ID: 7001\n"
+"PO-Revision-Date: 2022-10-11 19:37\n"
+
+
+msgctxt "Addons::name::departments"
+msgid "Departments"
+msgstr "Отделы"
+
+msgctxt "Languages::departments"
+msgid "Departments"
+msgstr "Отделы"
+
+msgctxt "Addons::description::departments"
+msgid "This module allows you to display the department management interface."
+msgstr "Этот модуль позволяет отображать интерфейс управления отделом."
+
+msgctxt "Languages::departments.departments"
+msgid "Departments"
+msgstr "Отделы"
+
+msgctxt "Languages::departments.name"
+msgid "Name"
+msgstr "Название"
+
+msgctxt "Languages::departments.position"
+msgid "Position"
+msgstr "Позиция"
+
+msgctxt "Languages::departments.image"
+msgid "Image"
+msgstr "Логотип"
+
+msgctxt "Languages::departments.description"
+msgid "Description"
+msgstr "Описание"
+
+msgctxt "Languages::departments.creation_date"
+msgid "Creation date"
+msgstr "Дата создания"
+
+msgctxt "Languages::departments.admin"
+msgid "Admin"
+msgstr "Руководитель"
+
+msgctxt "Languages::add_recipients_from_admin"
+msgid "Add recipients from admin"
+msgstr "Добавить руководителя"
+
+msgctxt "Languages::departments.employee"
+msgid "Employee"
+msgstr "Сотрудник"
+
+msgctxt "Languages::departments.employees"
+msgid "Employees"
+msgstr "Сотрудники"
+
+msgctxt "Languages::add_recipients_from_employee"
+msgid "Add recipients from employee"
+msgstr "Добавить сотрудника"
+
+msgctxt "Languages::departments.delete"
+msgid "Delete departments"
+msgstr "Удалить"
+
+msgctxt "Languages::departments.add"
+msgid "Add departments"
+msgstr "Добавить"
+
+msgctxt "Languages::departments.change"
+msgid "Departments change"
+msgstr "Изменить"
+
+msgctxt "Languages::departments.logo"
+msgid "Logo"
+msgstr "Логотип"
+
+msgctxt "Languages::departments.status"
+msgid "Status"
+msgstr "Статус"
+
+msgctxt "Languages::status"
+msgid "Status"
+msgstr "Статус"
+
+msgctxt "Languages::departments.edit"
+msgid "Edit"
+msgstr "Редактировать"
+
+msgctxt "Languages::departments.no_data"
+msgid "No data"
+msgstr "Нет данных"
+
+msgctxt "Languages::departments.delete_selected"
+msgid "Delete selected"
+msgstr "Удалить выбранное"
+
+msgctxt "Languages::department"
+msgid "Department"
+msgstr "Отдел"
+
+msgctxt "Languages::departments.info"
+msgid "Department information"
+msgstr "Информация об отделе"
