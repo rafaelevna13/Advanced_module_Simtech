@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>departments</id>
+    <name>Departments</name>
+    <description>Создание модуля для CS-Cart</description>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>400</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <status>active</status>
+    <default_language>en</default_language>
+    <settings layout="separate" edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <translations>
+                <item lang="ru"></item>
+                <item lang="en"></item>
+            </translations>
+        </sections>
+    </settings>
+</addon>
+
